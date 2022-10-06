@@ -1,46 +1,5 @@
-#ea下载
-ssl-lvlt.cdn.ea.com
-origin-a.akamaihd.net
-#育碧下载
-23.76.204.138 uplaypc-s-ubisoft.cdn.ubi.com
-23.76.204.138 uplaypc-s-ubisoft-ww.cdn.ubi.com
-218.91.224.26 uplaypc-s-ubisoft.cdn.ubionline.com.cn
-#xbox国际下载
+
 xvcf1.xboxlive.com
 xvcf2.xboxlive.com
 assets1.xboxlive.com
 assets2.xboxlive.com
-#gog下载
-gog-cdn-lumen.secure2.footprint.net
-#战网下载
-blzddist1-a.akamaihd.net
-blzddistkr1-a.akamaihd.net
-level3.blizzard.com
-kr.cdn.blizzard.com
-us.cdn.blizzard.com
-eu.cdn.blizzard.com
-blizzard.gcdn.cloudn.co.kr
-#epic
-download.epicgames.com
-download2.epicgames.com
-download3.epicgames.com
-download4.epicgames.com
-fastly-download.epicgames.com
-#r星
-gamedownloads-rockstargames-com.akamaized.net
-#拳头
-download.epicgames.com
-download2.epicgames.com
-download3.epicgames.com
-download4.epicgames.com
-ks-foundation.secure.dyn.riotcdn.net
-riot-client.secure.dyn.riotcdn.net
-valorant.secure.dyn.riotcdn.net
-lol.secure.dyn.riotcdn.net
-bacon.secure.dyn.riotcdn.net
-ks-foundation.dyn.riotcdn.net
-riot-client.dyn.riotcdn.net
-valorant.dyn.riotcdn.net
-lol.dyn.riotcdn.net
-bacon.dyn.riotcdn.net
-#其他

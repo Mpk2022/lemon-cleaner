@@ -1,5 +1,5 @@
 
-xvcf1.xboxlive.com
-xvcf2.xboxlive.com
-assets1.xboxlive.com
-assets2.xboxlive.com
+DOMAIN-SUFFIX,xvcf1.xboxlive.com
+DOMAIN-SUFFIX,DOMAIN-SUFFIX,DOMAIN-SUFFIX,xvcf2.xboxlive.com
+DOMAIN-SUFFIX,DOMAIN-SUFFIX,assets1.xboxlive.com
+DOMAIN-SUFFIX,assets2.xboxlive.com

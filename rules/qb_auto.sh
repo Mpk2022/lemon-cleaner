@@ -6,13 +6,13 @@ save_dir=$4
 files_num=$5
 torrent_size=$6
 file_hash=$7
-qb_version="4.5.1"    # 改成你的qbit版本
+qb_version="v4.2.5"    # 改成你的qbit版本
 qb_username="admin"    # qbit用户名
-qb_password="adminadmin"    # qbit密码
+qb_password="usu3dry6W9nKeFN"    # qbit密码
 qb_web_url="http://localhost:8080"    # qbit webui地址
-leeching_mode="true"    # 吸血模式，true下载完成后自动删除本地种子和文件
+leeching_mode="false"    # 吸血模式，true下载完成后自动删除本地种子和文件
 log_dir="/root/qbauto"    # 日志输出目录
-rclone_dest="onedrive"    # rclone配置的储存名
+rclone_dest="1"    # rclone配置的储存名
 rclone_parallel="32"    # qbit上传线程，默认4
 auto_del_flag="rclone"    # 添加标签或者分类来标识已上传的种子 v4.0.4+版本添加标签“rclone”，低版本通过添加分类“rclone”标识
 # 改上面的那些参数即可
